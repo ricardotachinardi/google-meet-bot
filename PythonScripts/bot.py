@@ -21,6 +21,7 @@ def runbot(url, year, month, day, hour, minutes, session_length = 3600):
   options.add_argument("user-data-dir=selenium") 
   options.add_argument("--disable-infobars")
   options.add_argument("--window-size=800,600")
+  options.add_argument("--mute-audio")
 
   options.add_experimental_option("prefs", { \
       "profile.default_content_setting_values.media_stream_mic": 2,     # 1:allow, 2:block
@@ -51,7 +52,7 @@ def runbot(url, year, month, day, hour, minutes, session_length = 3600):
   print("closing meeting")
   browser.close()
 
-url = input("meet url: ").lower
+url = input("meet url: ")
 print("DO NOT PUT ZEROS BEFORE THE NUMBERS")
 year = int(input("year: "))
 month = int(input("month: "))
