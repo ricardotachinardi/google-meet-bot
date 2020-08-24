@@ -1,3 +1,5 @@
+# Portuguese instructions available in README_Portuguese.md
+
 # Installation
 Good news: you probably will not need to download anything to use this app, all you need is to 
 **have Google Chrome installed**
