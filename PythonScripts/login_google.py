@@ -67,3 +67,4 @@ google_sign_in(email, passe, internet)
 
 print()
 print("Succesfully logged in, you can now use the scheduler")
+print("Just close the command prompt")
