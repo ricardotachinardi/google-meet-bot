@@ -1,0 +1,2 @@
+
+email = input("Email: ")
