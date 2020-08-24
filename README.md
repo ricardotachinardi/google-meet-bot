@@ -23,3 +23,7 @@ Quando for a hora de começar, uma janela do chrome irá abrir e automaticamente
 * Os códigos do Python estão na pasta PythonScripts
 * Você precisará baixar o chromedriver e colocar ele na pasta em que estiver rodando o código (ou adicionar ao PATH)
 * As bibliotecas de python necessárias são a **selenium** e a **pause**. Use o pip install para a instalação delas
+
+### Coisas a serem implementadas no futuro:
+* Responder no chat
+* Bot que liga a câmera
