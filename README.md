@@ -1,3 +1,4 @@
+# DISCLAIMER: ESSE BOT NÃO FOI FEITO PRA SER USADO NAS AULAS DA USP
 # Instalação
 Boas notícias: você provavelmente não vai precisar baixar mais nada para que o programa funcione, só é necessário que você tenha o **Google Chrome instalado**
 
