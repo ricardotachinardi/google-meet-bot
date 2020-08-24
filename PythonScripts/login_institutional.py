@@ -26,7 +26,7 @@ def institutional_sign_in():
 
     browser = webdriver.Chrome(options=options)
 
-    browser.get('https://accounts.google.com/signin/v2/identifier?service=accountsettings&hl=pt-BR&continue=https%3A%2F%2Fmyaccount.google.com%2Fintro%3Fhl%3Dpt-BR&flowName=GlifWebSignIn&flowEntry=ServiceLogin')
+    browser.get('')
 
 
 
@@ -37,7 +37,4 @@ pause.time(5)
 
 institutional_sign_in()
 
-input("Press enter after you have succesfully logged in your acount")
-
-print()
-print("Succesfully logged in, you can now use the scheduler")
+input("Just close the command prompt after you have succesfully logged in your acount")
