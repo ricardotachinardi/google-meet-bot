@@ -26,7 +26,7 @@ def institutional_sign_in():
 
     browser = webdriver.Chrome(options=options)
 
-    browser.get('')
+    browser.get('https://accounts.google.com/signin/v2/identifier?service=accountsettings&hl=pt-BR&continue=https%3A%2F%2Fmyaccount.google.com%2Fintro%3Fhl%3Dpt-BR&flowName=GlifWebSignIn&flowEntry=ServiceLogin')
 
 
 
