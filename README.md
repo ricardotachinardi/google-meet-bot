@@ -1,3 +1,4 @@
+##### Um disclaimer à Poli/USP: o bot foi um teste de conceito da biblioteca selenium para o python, não me responsabilizo pelo mal uso desse software por terceiros
 # Portuguese instructions available in README_Portuguese.md
 
 # Installation
