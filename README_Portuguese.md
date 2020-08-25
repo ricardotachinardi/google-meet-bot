@@ -9,10 +9,10 @@ Você pode fazer login tanto com seu email institucional (como o email usp) quan
 **Não se preocupe! Não temos acesso aos seus dados, eles ficam salvos no seu computador, igual quando você faz login da maneira normal**
 
 ## Fazendo login do google
-Para os emails normais do google, você só precisa abrir o arquivo .bat nomeado FazerLoginGoogle e inserir seu email e senha. Não precisa fazer nada quando uma janela do Chrome abrir
+Para os emails normais do google, você só precisa abrir o arquivo .bat nomeado LoginGoogle e inserir seu email e senha. Não precisa fazer nada quando uma janela do Chrome abrir
 
 ## Fazendo login no email institucional
-Para os emails institucionais, você precisa abrir o arquivo .bat nomeado FazerLoginInstitucional e fazer o login igual você faria normalmente. Depois disso, volte ao prompt de comando e aperte enter.
+Para os emails institucionais, você precisa abrir o arquivo .bat nomeado LoginInstitucional e fazer o login igual você faria normalmente. Depois disso, volte ao prompt de comando e aperte enter.
 
 # Uso do bot
 Depois de fazer o login, abra o arquivo .bat nomeado agendador e insira o link da sessão, a data em que ela começará e seu tempo de duração.
