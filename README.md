@@ -7,7 +7,7 @@
 ### Zoom alternative: https://github.com/jetavators/ZoomBot
 # Installation
 Good news: you probably will not need to download anything to use this app, all you need is to 
-**have Google Chrome installed**
+**have Google Chrome and Python installed**
 # Login
 
 You can either login using an @gmail address or using an non @gmail addres (like the one your school gave you)
