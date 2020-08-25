@@ -48,7 +48,7 @@ def runbot(url, year, month, day, hour, minutes, session_length = 3600):
       except NoSuchElementException:
         browser.find_element_by_xpath("//span[@class='NPEfkd RveJvd snByac' and contains(text(), 'Pedir para participar')]").click()
   
-  time.sleep(session_length)
+  time.sleep(60*session_length)
   print("closing meeting")
   browser.close()
 
