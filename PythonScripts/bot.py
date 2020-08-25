@@ -59,7 +59,7 @@ month = int(input("month: "))
 day = int(input("day: "))
 hour = int(input("start hour: "))
 minutes = int(input("start minutes: "))
-session_length = int(input("session lenght: "))
+session_length = int(input("session lenght (in minutes): "))
 
 print("We will open an browser window at the start time of your session")
 
