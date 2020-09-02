@@ -6,7 +6,7 @@
 ###
 ### Zoom alternative: https://github.com/jetavators/ZoomBot
 # Installation
-Good news: you probably will not need to download anything to use this app, all you need is to 
+All you need is to 
 **have Google Chrome and Python installed**
 # Login
 
