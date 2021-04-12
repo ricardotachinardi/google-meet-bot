@@ -14,10 +14,10 @@ You can either login using an @gmail address or using an non @gmail addres (like
 
 **Don't worry! We do not have access to your data, it is stored locally in your computer
 
-## Logging in with @gmail address
+## Login with @gmail address
 Open the .bat LoginGoogle and insert your email and password. You won't have to do anything when the new Chrome window launch
 
-## Logging in with non @gmail address
+## Login with non @gmail address
 Open the .bat LoginInstitutional and use the browser window that launched to sign in. Then, just close the command prompt
 
 # Bot usage
